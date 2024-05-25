@@ -1,0 +1,33 @@
+.contect{
+   
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: 2Px solid;
+    background-color: rgb(245, 148, 2);
+    
+}
+.pra{
+     display: flex;
+    text-align: center;
+    border: 10px;
+    align-items: center;
+
+    
+}
+h1{
+   
+
+
+}
+.hr{
+    background-color: brown;
+    text-align: center;
+}
+.new{
+    font-size: 150%;
+    background-color: rgb(6, 199, 157);
+}
